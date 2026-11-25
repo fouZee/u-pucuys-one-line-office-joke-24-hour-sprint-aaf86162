@@ -8,9 +8,9 @@ One-line office joke for make.fun's "One-Line Office Joke: 24-Hour Sprint" bount
 
 ## The joke
 
-> I set my out-of-office reply to 'per my last email', so the passive aggression keeps working while I'm on holiday.
+> Our team-building exercise was replying-all to a 47-person email chain; we built nothing but resentment.
 
-The setup is the most passive-aggressive phrase in office email; the punchline automates it — the snark keeps working while its owner is on holiday.
+The setup is the most dreaded team ritual in office life; the punchline is that the only thing the team built was resentment.
 
 ## Run it
 
